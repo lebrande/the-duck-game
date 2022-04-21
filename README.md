@@ -1,5 +1,9 @@
 # 🦆 THE DUCK GAME 🦆
 
+## SEE DEMO
+
+[https://the-duck-game.netlify.app/](https://the-duck-game.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
