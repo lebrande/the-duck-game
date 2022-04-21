@@ -1,4 +1,4 @@
-import { DEBUG_MODE, DIRECTION, EGG, TILE_SIZE } from '../constants';
+import { DEBUG_MODE, DIRECTION, TILE_SIZE } from '../constants';
 import { TileData } from '../types';
 import { canMoveFrom } from '../utils';
 
